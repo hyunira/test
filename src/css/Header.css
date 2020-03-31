@@ -1,0 +1,11 @@
+#header{height:100px; position:relative; z-index:9;}
+.header_top{height:60px; background:rgba(0,78,96,0.8); line-height:60px; color:#fff;}
+.header_top p{float:left; margin-left:20px; font-size:16px; font-weight:500}
+.header_top p a{color:#fff; padding:0 10px;}
+.top_menu{float:right; margin-right:20px;}
+.top_menu li{float:left;}
+.top_menu li a{color:#fff; padding:0 10px;border-right:1px solid #fff;}
+.top_menu li:last-child a{border-right:none;}
+.top_menu li:hover, .top_menu li.active{
+    font-weight:600; background-color:rgb(0,78,96); text-shadow:2px 2px 3px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,41 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+/* default */
+html, body, address, blockquote, div, dl, form, h1, h2, h3, h4, h5, h6, ol, p, pre, table, ul,
+dd, dt, li, tbody, td, tfoot, th, thead, tr, button, del, ins, map, object,
+a, abbr, acronym, b, bdo, big, br, cite, code, dfn, em, i, img, kbd, q, samp, small, span,
+strong, sub, sup, tt, var, legend, fieldset {margin:0;padding:0;}
+
+ol,ul,li,dl,dt,dd {list-style:none;}
+img {max-width:100%;height:auto;vertical-align:middle;border:0 none;}
+table {border-collapse:collapse;border-spacing:0;}
+legend,caption {width:0px;height:0px;line-height:0;overflow:hidden;font-size:0px;visibility:hidden;}
+fieldset {border:0 none;}
+
+a {color:#333;text-decoration:none;cursor:pointer}
+a:hover {text-decoration:none;}
+button {border:0 none;background:none;cursor:pointer;}
+
+/* box-sizing */
+html {-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+*, *:before, *:after {-webkit-box-sizing:inherit;-moz-box-sizing:inherit;box-sizing:inherit;}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {display: block;}
+
+/* font */
+html,body {
+    line-height:150%;font-size:12px;font-family:"나눔고딕","Nanum Gothic","돋움",Dotum,Arial,sans-serif;color:#333;;-webkit-text-size-adjust:none;
+}
+table,input,textarea,select,legend,button {
+	font-family:"나눔고딕","Nanum Gothic","돋움",Dotum,Arial,sans-serif;
+	font-size:12px;color:#333;vertical-align:middle;
+}
+pre {	
+    font-family:"나눔고딕","Nanum Gothic","돋움",Dotum,Arial,sans-serif;
+	font-size:14px;color:#333;
+}
+
+
+
