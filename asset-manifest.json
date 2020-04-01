@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.2ba3a00c.chunk.css",
-    "main.js": "/test/static/js/main.976cc616.chunk.js",
-    "main.js.map": "/test/static/js/main.976cc616.chunk.js.map",
+    "main.css": "/test/static/css/main.7055cad0.chunk.css",
+    "main.js": "/test/static/js/main.57914c57.chunk.js",
+    "main.js.map": "/test/static/js/main.57914c57.chunk.js.map",
     "runtime-main.js": "/test/static/js/runtime-main.11d16a7a.js",
     "runtime-main.js.map": "/test/static/js/runtime-main.11d16a7a.js.map",
     "static/css/2.b328fd89.chunk.css": "/test/static/css/2.b328fd89.chunk.css",
-    "static/js/2.5a931015.chunk.js": "/test/static/js/2.5a931015.chunk.js",
-    "static/js/2.5a931015.chunk.js.map": "/test/static/js/2.5a931015.chunk.js.map",
+    "static/js/2.a14cb012.chunk.js": "/test/static/js/2.a14cb012.chunk.js",
+    "static/js/2.a14cb012.chunk.js.map": "/test/static/js/2.a14cb012.chunk.js.map",
     "index.html": "/test/index.html",
-    "precache-manifest.62ef6bf706c7aaaeb1420fa1ac933004.js": "/test/precache-manifest.62ef6bf706c7aaaeb1420fa1ac933004.js",
+    "precache-manifest.fc9cac79e57bc1e3118f6c5a93f2981f.js": "/test/precache-manifest.fc9cac79e57bc1e3118f6c5a93f2981f.js",
     "service-worker.js": "/test/service-worker.js",
     "static/css/2.b328fd89.chunk.css.map": "/test/static/css/2.b328fd89.chunk.css.map",
-    "static/css/main.2ba3a00c.chunk.css.map": "/test/static/css/main.2ba3a00c.chunk.css.map",
-    "static/js/2.5a931015.chunk.js.LICENSE.txt": "/test/static/js/2.5a931015.chunk.js.LICENSE.txt",
-    "static/media/map.png": "/test/static/media/map.37eadf41.png"
+    "static/css/main.7055cad0.chunk.css.map": "/test/static/css/main.7055cad0.chunk.css.map",
+    "static/js/2.a14cb012.chunk.js.LICENSE.txt": "/test/static/js/2.a14cb012.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/test/static/media/img1.a72264f4.jpg",
+    "static/media/img2.jpg": "/test/static/media/img2.c6039187.jpg",
+    "static/media/img3.png": "/test/static/media/img3.2de3a765.png",
+    "static/media/style.css": "/test/static/media/rightPeople-WorldMap.dbb2e48a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.11d16a7a.js",
     "static/css/2.b328fd89.chunk.css",
-    "static/js/2.5a931015.chunk.js",
-    "static/css/main.2ba3a00c.chunk.css",
-    "static/js/main.976cc616.chunk.js"
+    "static/js/2.a14cb012.chunk.js",
+    "static/css/main.7055cad0.chunk.css",
+    "static/js/main.57914c57.chunk.js"
   ]
 }
